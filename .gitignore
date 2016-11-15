@@ -1,5 +1,4 @@
 # Object files
-img/*
 *.
 *.o
 *.ko
